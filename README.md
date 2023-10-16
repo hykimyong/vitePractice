@@ -1,0 +1,2 @@
+# vitePractice
+vite + react + typescript
